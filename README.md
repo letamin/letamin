@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @letamin. Nice to meet you!
-I'm a 27 year old software engineer from Vietnam.  
+I'm a 29 year old software engineer from Vietnam.  
 In 2018, I graduated from Vietnamese-German university with Bachelor degree in Computer Science, and from then, I have been working as a software engineer for different companies, mainly with Frontend related problems using one of the most popular framework - Vuejs.  
 
 - 👀 I’m interested in:    
